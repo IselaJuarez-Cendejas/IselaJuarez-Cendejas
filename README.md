@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isela </h1>
 <h3 align="center">I am a developer interested in working with data, machine learning, and coding stuff! </h3>
 
-- 🔭 I’m currently working on [NBA App](https://github.com/IselaJuarez-Cendejas/NBAStatApp)
+- 🔭 I’m currently working on **Machine Learning Project Development**
 
 - 🌱 I’m continuely learning ways to better myself as a developer
 
@@ -24,6 +24,7 @@
 **IselaJuarez-Cendejas/IselaJuarez-Cendejas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+🔭 I’m currently working on [NBA App](https://github.com/IselaJuarez-Cendejas/NBAStatApp)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
