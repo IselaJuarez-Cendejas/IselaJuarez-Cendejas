@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **iselajuarezcendejas@gmail.com**
 
-- ⚡ Fun fact **Outside of all of my development endevours, I am lifting weights and boxing.**
+- ⚡ Fun fact **Outside of all of my development endeavours, I am lifting weights and boxing.**
 
 <!--</p>-->
 
