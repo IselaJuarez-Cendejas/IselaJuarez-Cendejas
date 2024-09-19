@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **iselajuarezcendejas@gmail.com**
 
-- ⚡ Fun fact **I LOVE reading books**
+- ⚡ Fun fact **Outside of all of my development endevours, I am lifting weights and boxing.**
 
 <!--</p>-->
 
