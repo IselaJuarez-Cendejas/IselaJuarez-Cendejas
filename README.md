@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isela </h1>
 <h3 align="center">I am a developer interested in working with data, machine learning, and coding stuff! </h3>
 
-- 🔭 I’m currently working on **Machine Learning Project Development**
+- 🔭 I’m currently working on **Building a LLM from scratch**
 
 - 🌱 I’m continuely learning ways to better myself as a developer
 
