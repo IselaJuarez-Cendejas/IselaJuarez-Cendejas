@@ -1,13 +1,15 @@
 <h1 align="center">Hi 👋, I'm Isela </h1>
-<h3 align="center">Machine Learning Developer </h3>
+<h3 align="center">Machine Learning / AI Developer </h3>
 
-- 🔭 I’m currently working on **Building a LLM from scratch** and **FraudShield AI** 
+- 🔭 I’m currently working on **Building a LLM from scratch** and **FraudShield AI**
+  
+- 🔨 I build and code using research papers, advanced math knowledge, and grit. 
 
-- 🌱 I’m continuely learning to better myself as a developer
+- 🌱 I’m continuely learning to better myself as a ML / AI developer
 
 - 📫 How to reach me **iselajuarezcendejas@gmail.com**
 
-- ⚡ Fun fact **Outside of all of my development endeavours, I am lifting weights, boxing, and reading (for balance :))**
+- ⚡ Fun fact **Outside of all of my development endeavours, I am lifting, boxing, and reading ( for balance :) )**
 
 <!--</p>-->
 
