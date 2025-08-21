@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Isela </h1>
 <h3 align="center">Machine Learning / AI Developer </h3>
 
-- 🔭 I’m currently working on **Building a LLM from scratch** and **FraudShield AI**
+- 🔭 I’m currently working on **Building a LLM from scratch**
   
 - 🔨 I build and code using research papers, advanced math knowledge, and grit. 
 
